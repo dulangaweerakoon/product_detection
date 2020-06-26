@@ -26,7 +26,7 @@ For this task, we fine-tune a *BERT* based classifier achieving *55%* accuracy. 
 The pre-final layer BERT features can be downloaded from:
 https://drive.google.com/drive/u/1/folders/1UVnhpJOe0O5yESD473o43ZUfGF8VoXgx
 
-### Vision based Classifier
+### Vision based Classification
 From the given image dataset, we trained a 42-class Image classffier with ResNext_101_32x48d model pretrained on Imagenet dataset. Trained model can be downloaded from: 
 https://drive.google.com/drive/u/1/folders/1UVnhpJOe0O5yESD473o43ZUfGF8VoXgx
 
