@@ -26,5 +26,5 @@ The pre-final layer BERT features can be downloaded from:
 https://drive.google.com/drive/u/1/folders/1UVnhpJOe0O5yESD473o43ZUfGF8VoXgx
 
 
-## Fusion of Visual and textual features
+## Fusion of visual and textual features
 We append the pre-final layer activations of *Vision* model and *BERT* model and learn a simple 1-hidden layer MLP classifier. The obtained accuracy is *__*.
