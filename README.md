@@ -22,6 +22,7 @@ From the given text dataset, we formulate a text classification problem:
 
 For this task, we fine-tune a *BERT* based classifier achieving *55%* accuracy. This is significant as compared to random baseline classifier giving ~2.38%. 
 
+The pre-final layer BERT features can be downloaded from:
 https://drive.google.com/drive/u/1/folders/1UVnhpJOe0O5yESD473o43ZUfGF8VoXgx
 
 
