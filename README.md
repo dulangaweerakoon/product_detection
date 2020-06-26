@@ -2,6 +2,7 @@
 
 ## Product detection as Image classification
 Shopee Product Detection Challenge
+
 Pre-trained model:
 
 Classification accruacy (42 classees): *86.18%*
