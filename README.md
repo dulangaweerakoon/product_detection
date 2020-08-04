@@ -30,5 +30,5 @@ https://drive.google.com/drive/u/1/folders/1UVnhpJOe0O5yESD473o43ZUfGF8VoXgx
 From the given image dataset, we trained a 42-class Image classffier with ResNext_101_32x48d model pretrained on Imagenet dataset. Trained model can be downloaded from: 
 https://drive.google.com/drive/u/1/folders/1UVnhpJOe0O5yESD473o43ZUfGF8VoXgx
 
-## Fusion of visual and textual features
-We append the pre-final layer activations of *Vision* model and *BERT* model and learn a simple 1-hidden layer MLP classifier. The obtained accuracy is *__*.
+### Fusion
+The proper fusion of vision and text is expected to increase the performance. Please use both the datasets and see if it helps.
